@@ -7,7 +7,7 @@ import { HiDownload } from "react-icons/hi";
 import { FaGithubSquare } from "react-icons/fa";
 import { motion } from "framer-motion";
 
-export default function intro() {
+export default function Intro() {
   return (
     <section className="mb-28 max-w-[50rem] text-center sm:mb-0">
         <div className='flex items-center justify-center'>
